@@ -1,0 +1,15 @@
+.card{
+  border-radius: 15px;
+  height: 60vh;
+}
+.card-img-top {
+  height: 30vh;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  
+}
+.spinner {
+  width: 30px;
+}
+
+

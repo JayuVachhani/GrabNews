@@ -1,0 +1,270 @@
+{
+ "articles": [
+    {
+      "source": {
+        "id": 1,
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Germany wants phone makers to offer 7 years of security updates",
+      "description": "Your current phone might get security patches for several years to come, at least if Germany has its way. C'treports the German federal government is pushing the European Union to require seven years of security updates and spare parts for smartphones as part…",
+      "url": "https://www.engadget.com/germanyphonemakers7yearssecurityupdates163601435.html",
+      "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202109/7c2699900d9711ecbf2f32fb211ca9fb",
+      "publishedAt": "20210904T16:36:01Z",
+      "content": "Your current phone might get security patches for several years to come, at least if Germany has its way. C'treports the German federal government is pushing the European Union to require seven years… [+1763 chars]"
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "Wired"
+      },
+      "author": "Brian Barrett",
+      "title": "BrakTooth Flaws Affect Billions of Bluetooth Devices",
+      "description": "Plus: A spyware ban, a big WhatsApp fine, and more of the week's top security news.",
+      "url": "https://www.wired.com/story/braktoothbluetoothwhatsappfineomgcable/",
+      "urlToImage": "https://media.wired.com/photos/61329d3c794facfa506fd587/191:100/w_1280,c_limit/Sec_RU_GettyImages1284736783.jpg",
+      "publishedAt": "20210904T14:03:25Z",
+      "content": "When Apple announced in August that it would check for child sexual abuse materials on its customers' devices, privacy advocates and cryptographers immediately and loudly rejected the idea. In the fa… [+3820 chars]"
+    },
+    {
+      "source": {
+        "id": 3,
+        "name": "Ars Technica"
+      },
+      "author": "Ars Staff",
+      "title": "The best Labor Day tech deals we can find this weekend",
+      "description": "Dealmaster includes discounts on Apple devices, PS5 games, headphones, and more.",
+      "url": "https://arstechnica.com/staff/2021/09/bestlabordaysales2021techlaptopsgameselectronics/",
+      "urlToImage": "https://cdn.arstechnica.net/wpcontent/uploads/2021/09/dealmaster090421760x380.jpg",
+      "publishedAt": "20210904T14:14:59Z",
+      "content": "0 with 0 posters participating\r\nIt's Labor Day Weekend in the US, which means the Dealmaster has once again been busy picking through a barrage of sales to help you find the best tech deals currently… [+7708 chars]"
+    },
+    {
+      "source": {
+        "id": 4,
+        "name": "Android Central"
+      },
+      "author": "Jerry Hildenbrand",
+      "title": "The worst thing about Wear OS 3 might be able to save the platform",
+      "description": "Google giving manufacturers more control is what made Android so popular.\n\nWith over two billion users, Android is the most popular computer operating system in the world. There are more Android users than iPhone users and even more Android users than Windows…",
+      "url": "https://www.androidcentral.com/worstthingaboutwearos3mightbeablesaveplatform",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/08/samsunggalaxywatch4watch4classic2.jpg",
+      "publishedAt": "20210904T12:00:02Z",
+      "content": "Source: Jerry Hildenbrand / Android Central\r\nWith over two billion users, Android is the most popular computer operating system in the world. There are more Android users than iPhone users and even m… [+6266 chars]"
+    },
+    {
+      "source": {
+        "id": 5,
+        "name": "The Guardian"
+      },
+      "author": "Zoe Williams",
+      "title": "Fit in my 40s: phew, a group bike ride that lets me catch up | Zoe Williams",
+      "description": "With my brotherinlaw’s group, nobody seemed to care how little I’d helped on the headwindI’ve done enough group cycling in my life to say this with authority: it’s impossible for someone at my level, which is to say competent but not a grafter. Cycling club…",
+      "url": "https://amp.theguardian.com/lifeandstyle/2021/sep/04/fitinmy40sgroupbikeridethatletsmecatchup",
+      "urlToImage": "https://i.guim.co.uk/img/media/54858f8cc8306a7e9724b5624c592f55ff4be9a9/0_335_3234_1940/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlayalign=bottom%2Cleft&overlaywidth=100p&overlaybase64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e43e12316929d55051b3bf499edb0116",
+      "publishedAt": "20210904T06:00:17Z",
+      "content": "Ive done enough group cycling in my life to say this with authority: its impossible for someone at my level, which is to say competent but not a grafter. Cycling clubs tend to be wonderfully inclusiv… [+2845 chars]"
+    },
+    {
+      "source": {
+        "id": 6,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Watch Series 7: Rumors, Features, Possible Release Date and More",
+      "description": "Apple is expected to introduce the Apple Watch Series 7 at an event in September, and the Series 7 is an exciting update because it features the first significant redesign to the Apple Watch that we've seen in years.\n\n\n\n\n\nThis guide covers everything we know …",
+      "url": "https://www.macrumors.com/guide/applewatchseries7/",
+      "urlToImage": "https://images.macrumors.com/t/ZR8NRVjrm9N831EeMfAw4HMdl6c=/2500x/https://images.macrumors.com/articlenew/2021/09/AppleWatch7UnreleasedFeatureFlat.jpg",
+      "publishedAt": "20210904T17:03:00Z",
+      "content": "Apple is expected to introduce the Apple Watch Series 7 at an event in September, and the Series 7 is an exciting update because it features the first significant redesign to the Apple Watch that we'… [+11745 chars]"
+    },
+    {
+      "source": {
+        "id": 7,
+        "name": "Entrepreneur"
+      },
+      "author": "Jon Michail",
+      "title": "Why Does Coaching Matter for Entrepreneurs?",
+      "description": "Here are the five main benefits of coaching, as well as some tips on how to find a great one.",
+      "url": "https://www.entrepreneur.com/article/379800",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1630517614shutterstock446643151.jpg",
+      "publishedAt": "20210904T19:00:00Z",
+      "content": "September\r\n4, 2021\r\n7 min read\r\nOpinions expressed by Entrepreneur contributors are their own.\r\nEntrepreneurs are the risktakers of the business environment. They find an existing problem, find a so… [+7958 chars]"
+    },
+    {
+      "source": {
+        "id": 8,
+        "name": "Entrepreneur"
+      },
+      "author": "John Rampton",
+      "title": "50 phrases for entrepreneurs",
+      "description": "Great characters share some lessons to motivate you at any time.",
+      "url": "https://www.entrepreneur.com/article/382714",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1630427050yoda1.jpg",
+      "publishedAt": "20210904T14:00:00Z",
+      "content": "This article was translated from our Spanish edition using AI technologies. Errors may exist due to this process.\r\nOpinions expressed by Entrepreneur contributors are their own.\r\nNo one said it was e… [+8114 chars]"
+    },
+    {
+      "source": {
+        "id": 9,
+        "name": "Devdiscourse"
+      },
+      "author": "ANI",
+      "title": "Apple's child protection features get delayed after privacy outcry  Devdiscourse",
+      "description": "<ol><li>Apple's child protection features get delayed after privacy outcry  Devdiscourse\r\n</li><li>Apple delays plan to scan iPhones for child sex abuse images  CP24 Toronto's Breaking News\r\n</li><li>Apple to postpone roll out of controversial child protectio…",
+      "url": "https://www.devdiscourse.com/article/technology/1717934appleschildprotectionfeaturesgetdelayedafterprivacyoutcry",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/04_09_2021_09_20_09_2034466.jpg?width=920&format=jpeg",
+      "publishedAt": "20210904T09:20:19Z",
+      "content": "Apple's child protection features, which the company had announced last month, has now been delayed by the tech giant owing to criticism that the changes could diminish user privacy. According to The… [+2392 chars]"
+    },
+    {
+      "source": {
+        "id": 10,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kristine Solomon",
+      "title": "The 10 absolute best Amazon deals for Labor Day — snap them up while you can!  Yahoo Singapore News",
+      "description": "<ol><li>The 10 absolute best Amazon deals for Labor Day — snap them up while you can!  Yahoo Singapore News\r\n</li><li>25 Best Labor Day Sales (2021): Tech, TV, Laptops, Outdoors, Fitness, Etc  WIRED\r\n</li><li>Labor Day sales 2021: Best deals on electronics an…",
+      "url": "https://sg.news.yahoo.com/amazonlabordayweekenddeals232330706.html",
+      "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202109/b0f7cd300cfa11ecbba99dbe257f6a7f",
+      "publishedAt": "20210904T15:01:35Z",
+      "content": "We may receive commission from purchases made via links on this page. Pricing and availability are subject to change.\r\nAny online shopper knows that Amazon is the goto destination if you want the be… [+8645 chars]"
+    },
+    {
+      "source": {
+        "id": 11,
+        "name": "Boing Boing"
+      },
+      "author": "Boing Boing's Shop",
+      "title": "Treat yourself this long weekend with these 20 Labor Day deals on sale for up to 80% off",
+      "description": "Labor Day signals the start of the school year, but it also makes way for something even more exciting—summer sales. If you feel like treating yourself to some retail therapy this coming long weekend, you may want to take your pick from these irresistible dea…",
+      "url": "https://boingboing.net/2021/09/04/treatyourselfthislongweekendwiththese20labordaydealsonsaleforupto80off.html",
+      "urlToImage": "https://i1.wp.com/boingboing.net/wpcontent/uploads/2021/09/sale_19738_article_image.jpeg?fit=1200%2C800&ssl=1",
+      "publishedAt": "20210904T13:00:00Z",
+      "content": "Labor Day signals the start of the school year, but it also makes way for something even more excitingsummer sales. If you feel like treating yourself to some retail therapy this coming long weekend,… [+5988 chars]"
+    },
+    {
+      "source": {
+        "id": 12,
+        "name": "VentureBeat"
+      },
+      "author": "Contributor",
+      "title": "Facebook, should we just be friends?",
+      "description": "Facebook's tracking personalizes the experience in ways I don’t even notice. If I block tracking, what will that mean for my experience?",
+      "url": "http://venturebeat.com/2021/09/04/facebookshouldwejustbefriends/",
+      "urlToImage": "https://venturebeat.com/wpcontent/uploads/2021/09/glencarriera4vJwxnvAounsplashe1630694735790.jpg?w=1200&strip=all",
+      "publishedAt": "20210904T18:10:59Z",
+      "content": "The Transform Technology Summits start October 13th with LowCode/No Code: Enabling Enterprise Agility. Register now!\r\nThis article was written by Mat Lebowitz, designer and technophile.\r\nAm I the on… [+4456 chars]"
+    },
+    {
+      "source": {
+        "id": 13,
+        "name": "Slate Magazine"
+      },
+      "author": "Dahlia Lithwick",
+      "title": "The Sinister Origins of the Texas Abortion Law, and Why Democrats Are So Unprepared to Do Anything About It",
+      "description": "Dahlia Lithwick, Michele Goodwin, and Rebecca Traister unpack the history behind what happened this week.",
+      "url": "https://slate.com/newsandpolitics/2021/09/texasabortionlawdemocratsunprepared.html",
+      "urlToImage": "https://compote.slate.com/images/f1035742808142be9255a947b76c0172.jpeg?width=780&height=520&rect=1560x1040&offset=0x0",
+      "publishedAt": "20210904T13:00:00Z",
+      "content": "On the Sept. 3 episode of Working, Dahlia Lithwick spoke with Michele Goodwin, chancellors professor of law and director of the Center for Biotechnology and Global Health Policy at UC Irvine School o… [+7897 chars]"
+    },
+    {
+      "source": {
+        "id": 14,
+        "name": "Xataka.com"
+      },
+      "author": "Eva Rodríguez de Luis",
+      "title": "33 dispositivos y accesorios tecnológicos para la vuelta a clase: guía de compra de gadgets para tus estudios",
+      "description": "Con septiembre llega la vuelta al cole, con las habituales compras de libros, cuadernos y otros elementos de papelería. Pero no todo es papel: la tecnología sigue ganando peso en la enseñanza y, además del portátil – el que es el formato por excelencia por su…",
+      "url": "https://www.xataka.com/seleccion/33dispositivosaccesoriostecnologicosparavueltaaclaseguiacompragadgetsparatusestudios",
+      "urlToImage": "https://i.blogs.es/f7b1db/accesoriosvueltaaclase/840_560.jpg",
+      "publishedAt": "20210904T13:00:35Z",
+      "content": "Con septiembre llega la vuelta al cole, con las habituales compras de libros, cuadernos y otros elementos de papelería. Pero no todo es papel: la tecnología sigue ganando peso en la enseñanza y, adem… [+20741 chars]"
+    },
+    {
+      "source": {
+        "id": 15,
+        "name": "Le Monde"
+      },
+      "author": "Stéphanie Binet",
+      "title": "Nouvel album de Drake : certifié mais sans originalité",
+      "description": "Le rappeur canadien publie son sixième album, « Certified Lover Boy », cinq jours après celui de Kanye West, bien décidé à ne pas se laisser détrôner par son rival.",
+      "url": "https://www.lemonde.fr/culture/article/2021/09/04/nouvelalbumdedrakecertifiemaissansoriginalite_6093430_3246.html",
+      "urlToImage": "https://img.lemde.fr/2020/11/03/31/457/2542/1271/1440/720/60/0/f13b3c8_3d8dbcf723994951b890fbc6324a01ea3d8dbcf723994951b890fbc6324a01ea0.jpg",
+      "publishedAt": "20210904T17:11:02Z",
+      "content": "Drake lors des Billboard Music Awards, à Las Vegas, en 2019. RICHARD SHOTWELL/INVISION/AP\r\nCinq jours après la sortie du dixième album de Kanye West, le rappeur canadien, Drake, recordman jusquà alor… [+2581 chars]"
+    },
+    {
+      "source": {
+        "id": 16,
+        "name": "The Atlantic"
+      },
+      "author": "Conor Friedersdorf",
+      "title": "Spyware on Your iPhone Is a Step Too Far",
+      "description": "Without evidence of wrongdoing, neither public agents nor private companies should be rifling through the photos on your personal devices.",
+      "url": "https://www.theatlantic.com/ideas/archive/2021/09/spywareyouriphonesteptoofarprivacy/619987/?utm_source=feed",
+      "urlToImage": "https://img.lemde.fr/2020/11/03/31/457/2542/1271/1440/720/60/0/f13b3c8_3d8dbcf723994951b890fbc6324a01ea3d8dbcf723994951b890fbc6324a01ea0.jpg",
+      "publishedAt": "20210904T11:30:00Z",
+      "content": "Privacy is a set of curtains drawn across the windows of our lives. And technology companies are moths that will chew through more of the fabric every year if we let them, and especially if we encour… [+8514 chars]"
+    },
+    {
+      "source": {
+        "id": 17,
+        "name": "The Economist"
+      },
+      "author": "The Economist",
+      "title": "How did American “wokeness” jump from elite schools to everyday life?",
+      "description": "And how deep will its influence be? | Briefing",
+      "url": "https://www.economist.com/briefing/2021/09/04/howdidamericanwokenessjumpfromeliteschoolstoeverydaylife",
+      "urlToImage": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/printedition/20210904_FBD001_0.jpg",
+      "publishedAt": "20210904T01:12:51Z",
+      "content": "Sep 4th 2021\r\nWASHINGTON, DC\r\nYOU COULD use a single word as a proxy. Latinx is a genderneutral adjective which only 4% of American Hispanics say they prefer. Yet in 2018 the New York Times launched… [+17348 chars]"
+    },
+    {
+      "source": {
+        "id": 18,
+        "name": "9to5Mac"
+      },
+      "author": "José Adorno",
+      "title": "Apple offering free month of SHOWTIME through Apple TV Channels",
+      "description": "Apple announced in an email this weekend that it’s giving one free month of SHOWTIME through the Apple TV Channels. New subscribers can enjoy this exclusive deal during Labor Day weekend.\n more…\nThe post Apple offering free month of SHOWTIME through Apple TV …",
+      "url": "http://9to5mac.com/2021/09/04/appleofferingfreemonthofshowtimethroughappletvchannels/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2021/09/showtimeappletvchannels9to5mac.jpg?resize=1200%2C628&ssl=1",
+      "publishedAt": "20210904T14:07:40Z",
+      "content": "Apple announced in an email this weekend that its giving one free month of SHOWTIME through the Apple TV Channels. New subscribers can enjoy this exclusive deal during Labor Day weekend.\r\nIf you want… [+1071 chars]"
+    },
+    {
+      "source": {
+        "id": 19,
+        "name": "9to5Mac"
+      },
+      "author": "Bradley Chambers",
+      "title": "Apple @ Work: The essential apps for getting more out of your Mac at work",
+      "description": "Apple @ Work is brought to you by Mosyle, the leader in modern mobile device management (MDM) and security for Apple enterprise and education customers. Over 22,000 organizations leverage Mosyle solutions to automate the management and security of millions of…",
+      "url": "http://9to5mac.com/2021/09/04/bestmacappsforwork/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2021/08/Macappsatwork.png?resize=1200%2C628&ssl=1",
+      "publishedAt": "20210904T11:00:00Z",
+      "content": "Apple @ Work is brought to you by Mosyle, the leader in modern mobile device management (MDM) and security for Apple enterprise and education customers. Over 22,000 organizations leverage Mosyle solu… [+8511 chars]"
+    },
+    {
+      "source": {
+        "id": 20,
+        "name": "9to5Mac"
+      },
+      "author": "José Adorno",
+      "title": "Comment: iPhone 13 won’t be portless, but maybe the next one will",
+      "description": "As we are just a couple of weeks until Apple unveils the iPhone 13, it’s only natural that people’s interest in this matter grows. Over the past few days, some are saying the next iPhone will be portless “because Apple wants you to buy more accessories.” Alt…",
+      "url": "http://9to5mac.com/2021/09/04/commentportlessiphone13/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2021/09/portlessiphone139to5mac.jpg?resize=1200%2C628&ssl=1",
+      "publishedAt": "20210904T12:41:42Z",
+      "content": "As we are just a couple of weeks until Apple unveils the iPhone 13, its only natural that peoples interest in this matter grows. Over the past few days, some are saying the next iPhone will be portl… [+4080 chars]"
+    }
+  ]
+}
+
+
+
+
+
+
